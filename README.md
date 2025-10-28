@@ -54,11 +54,8 @@ A coffee shop system where you can decorate a basic coffee with extras like milk
 ## 🛠️ Technologies Used
 - **Java 17**
 - **OOP Principles (Encapsulation, Inheritance, Polymorphism)**
-- **IntelliJ IDEA / VS Code**
+- **IntelliJ IDEA 
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/design-patterns.git
+
